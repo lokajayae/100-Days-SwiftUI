@@ -75,3 +75,6 @@ enum Weekday {
 var day = Weekday.monday
 day = Weekday.friday
 ```
+
+## Type Annotations
+Type annotations make the code more readable by explicitly stating the intended type of a variable, constant, or function return value. When defining public interfaces, type annotations make the expected types clear to other developers using your code.

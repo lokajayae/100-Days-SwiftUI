@@ -50,3 +50,19 @@ enum Weekday {
 
 var day = Weekday.monday
 day = Weekday.friday
+
+// TYPE ANNOTATION
+var luckyNumber: Int = 37
+var players: [String] = ["John", "Raymond", "Samuel"]
+
+enum screenType {
+    case potrait
+    case landscape
+}
+var screen: screenType = screenType.landscape
+screen = .potrait
+
+var username:String
+// lots of complex logic
+username = "lockjaw"
+// more logic
