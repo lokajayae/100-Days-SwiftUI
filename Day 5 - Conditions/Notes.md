@@ -1,4 +1,4 @@
-# Day 3 and 4: Conditions
+# Day 5: Conditions
 
 ## IF, IF ELSE, and ELSE
 If, If else, and Else is one of branching mechanism that we can use in Swift. In this way one or no branch is executed. When else is used, the else branch will be the default, or the else branch will be executed if no branch fulfill the condition.
